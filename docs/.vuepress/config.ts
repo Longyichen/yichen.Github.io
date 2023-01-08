@@ -69,7 +69,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     // personal information
     personalInfo: {
       name: "YiChen",
-      avatar: "/img/avatar.jpeg",
+      avatar: "/img/avatar.png",
       description: "吹灭读书灯，一身都是月",
       sns: {
         github: {
@@ -96,17 +96,53 @@ export default defineUserConfig<DefaultThemeOptions>({
         path: "/img/home-bg/1.jpg",
         mask: "rgba(40, 57, 101, .4)",
       },
+      // {
+      //   path: "/img/home-bg/2.jpg",
+      //   mask: "rgb(251, 170, 152, .2)",
+      // },
+      // {
+      //   path: "/img/home-bg/3.jpg",
+      //   mask: "rgba(68, 74, 83, .1)",
+      // },
+      // {
+      //   path: "/img/home-bg/4.jpg",
+      //   mask: "rgba(19, 75, 50, .2)",
+      // },
       {
-        path: "/img/home-bg/2.jpg",
+        path: "/img/home-bg/5.png",
         mask: "rgb(251, 170, 152, .2)",
       },
       {
-        path: "/img/home-bg/3.jpg",
+        path: "/img/home-bg/6.png",
         mask: "rgba(68, 74, 83, .1)",
       },
       {
-        path: "/img/home-bg/4.jpg",
-        mask: "rgba(19, 75, 50, .2)",
+        path: "/img/home-bg/7.png",
+        mask: "rgba(68, 74, 83, .1)",
+      },
+      // {
+      //   path: "/img/home-bg/8.png",
+      //   mask: "rgb(251, 170, 152, .2)",
+      // },
+      {
+        path: "/img/home-bg/9.png",
+        mask: "rgba(68, 74, 83, .1)",
+      },
+      // {
+      //   path: "/img/home-bg/10.png",
+      //   mask: "rgba(68, 74, 83, .1)",
+      // },
+      {
+        path: "/img/home-bg/11.png",
+        mask: "rgb(251, 170, 152, .2)",
+      },
+      {
+        path: "/img/home-bg/12.png",
+        mask: "rgba(68, 74, 83, .1)",
+      },
+      {
+        path: "/img/home-bg/13.png",
+        mask: "rgba(68, 74, 83, .1)",
       },
     ],
 
@@ -216,6 +252,9 @@ export default defineUserConfig<DefaultThemeOptions>({
         <br>
         Powered by <a href="https://v2.vuepress.vuejs.org" target="_blank">VuePress</a> &
         <a href="https://github.com/Renovamen/vuepress-theme-gungnir" target="_blank">Gungnir</a>
+        <a href="https://beian.miit.gov.cn/" target="_blank">您的备案号</a>
+        <br>
+        <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备2022007304号-1</a>
       `,
   },
 

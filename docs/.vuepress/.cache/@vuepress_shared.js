@@ -3,7 +3,7 @@ import {
   isFunction,
   isPromise,
   isString
-} from "./chunk-XMEAICT2.js";
+} from "./chunk-NTE5X5C5.js";
 import {
   init_define_CODE_ENHANCE_OPTIONS,
   init_define_GISCUS_OPTIONS,

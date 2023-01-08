@@ -7,6 +7,7 @@ date: 2021-12-25
 useHeaderImage: true
 headerImage: /img/in-post/2021-12-25/header.jpg
 headerMask: rgba(40, 57, 101, .4)
+hide: true # 是否在首页和标签页博客列表中隐藏这篇博客（可选，默认：false）
 tags:
   - test
   - 中文标签

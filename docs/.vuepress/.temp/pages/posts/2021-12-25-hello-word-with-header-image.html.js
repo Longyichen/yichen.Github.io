@@ -12,6 +12,7 @@ export const data = {
     "useHeaderImage": true,
     "headerImage": "/img/in-post/2021-12-25/header.jpg",
     "headerMask": "rgba(40, 57, 101, .4)",
+    "hide": true,
     "tags": [
       "test",
       "中文标签"

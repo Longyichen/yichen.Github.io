@@ -5,6 +5,7 @@ subtitle: A Test Post without The Header Image
 author: Renovamen
 date: 2021-12-24
 headerImage: /img/in-post/2021-12-24/header.jpg
+hide: true # 是否在首页和标签页博客列表中隐藏这篇博客（可选，默认：false）
 tags:
   - test
   - tag with space

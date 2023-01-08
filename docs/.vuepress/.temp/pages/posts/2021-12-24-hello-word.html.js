@@ -10,6 +10,7 @@ export const data = {
     "author": "Renovamen",
     "date": "2021-12-24T00:00:00.000Z",
     "headerImage": "/img/in-post/2021-12-24/header.jpg",
+    "hide": true,
     "tags": [
       "test",
       "tag with space"

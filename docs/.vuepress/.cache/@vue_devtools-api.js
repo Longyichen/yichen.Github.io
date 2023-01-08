@@ -2,7 +2,7 @@ import {
   isPerformanceSupported,
   now,
   setupDevtoolsPlugin
-} from "./chunk-ANABVOSU.js";
+} from "./chunk-QHYSAO6F.js";
 import {
   init_define_CODE_ENHANCE_OPTIONS,
   init_define_GISCUS_OPTIONS,
