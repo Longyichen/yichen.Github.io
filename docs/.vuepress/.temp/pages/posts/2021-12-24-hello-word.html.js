@@ -151,22 +151,12 @@ export const data = {
       "children": []
     }
   ],
+  "git": {
+    "updatedTime": 1673183087000
+  },
   "readingTime": {
     "minutes": 4,
     "words": 873
   },
   "filePathRelative": "posts/2021-12-24-hello-word.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

@@ -60,22 +60,12 @@ export const data = {
       "children": []
     }
   ],
+  "git": {
+    "updatedTime": 1673183087000
+  },
   "readingTime": {
     "minutes": 13,
     "words": 6161
   },
   "filePathRelative": "posts/Reports of Visual and linguistic semantic representations are aligned at the border of human visual cortex.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

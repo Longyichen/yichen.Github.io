@@ -92,22 +92,12 @@ export const data = {
       "children": []
     }
   ],
+  "git": {
+    "updatedTime": 1673183087000
+  },
   "readingTime": {
     "minutes": 13,
     "words": 5668
   },
   "filePathRelative": "posts/Report of Brain Decoding Using fNIRS.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

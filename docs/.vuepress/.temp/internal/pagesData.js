@@ -1,6 +1,8 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/chenyilong/Projects/yichen.Github.io/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /links/
+  "v-f0388862": () => import(/* webpackChunkName: "v-f0388862" */"/Users/chenyilong/Projects/yichen.Github.io/docs/.vuepress/.temp/pages/links/index.html.js").then(({ data }) => data),
   // path: /posts/2021-12-24-hello-word.html
   "v-3044e74c": () => import(/* webpackChunkName: "v-3044e74c" */"/Users/chenyilong/Projects/yichen.Github.io/docs/.vuepress/.temp/pages/posts/2021-12-24-hello-word.html.js").then(({ data }) => data),
   // path: /posts/2021-12-25-hello-word-with-header-image.html
@@ -11,8 +13,6 @@ export const pagesData = {
   "v-00f362e2": () => import(/* webpackChunkName: "v-00f362e2" */"/Users/chenyilong/Projects/yichen.Github.io/docs/.vuepress/.temp/pages/posts/Report of Brain Decoding Using fNIRS.html.js").then(({ data }) => data),
   // path: /posts/Reports%20of%20Visual%20and%20linguistic%20semantic%20representations%20are%20aligned%20at%20the%20border%20of%20human%20visual%20cortex.html
   "v-2f219688": () => import(/* webpackChunkName: "v-2f219688" */"/Users/chenyilong/Projects/yichen.Github.io/docs/.vuepress/.temp/pages/posts/Reports of Visual and linguistic semantic representations are aligned at the border of human visual cortex.html.js").then(({ data }) => data),
-  // path: /links/
-  "v-f0388862": () => import(/* webpackChunkName: "v-f0388862" */"/Users/chenyilong/Projects/yichen.Github.io/docs/.vuepress/.temp/pages/links/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/chenyilong/Projects/yichen.Github.io/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /

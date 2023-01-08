@@ -79,22 +79,12 @@ export const data = {
       "children": []
     }
   ],
+  "git": {
+    "updatedTime": 1673183087000
+  },
   "readingTime": {
     "minutes": 10,
     "words": 4213
   },
   "filePathRelative": "posts/REPORT OF  IMPROVING BRAIN DECODING METHODS AND EVALUATION.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }
